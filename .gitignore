@@ -1,0 +1,22 @@
+# Python virtual environment
+myenv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Configuration files
+*.cfg
+
+# Generated audio files (assuming these are outputs)
+*.mp3
+
+# Text files (may contain data you don't want to share)
+*.txt
+
+# Keep README.md
+!README.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
